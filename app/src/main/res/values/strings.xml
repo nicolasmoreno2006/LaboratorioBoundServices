@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LaboratorioBoundServices</string>
+    <string name="titulo_lab">Odómetro de tutoría (bound service)</string>
+</resources>
